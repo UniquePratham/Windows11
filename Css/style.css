@@ -259,7 +259,7 @@ body {
 }
 #Button5 {
   position: absolute;
-  top: -695px;
+  top: -670px;
   right: -1365px;
   width: 50px;
   height: 40px;
@@ -289,15 +289,15 @@ body {
 }
 #Button8 {
   position: absolute;
-  top: -665px;
-  left: 365px;
+  top: -632px;
+  left: 364px;
   height: 40px;
   width: 50px;
   display: none;
 }
 #Button9 {
   position: absolute;
-  top: -625px;
+  top: -593px;
   right: -1190px;
   height: 40px;
   width: 50px;
